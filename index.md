@@ -11,3 +11,5 @@ else:
 - [ ] Turn on GitHub Pages
 - [x] Outline my portfolio
 - [ ] Introduce myself to the world
+
+##### This Shit Did not help me
